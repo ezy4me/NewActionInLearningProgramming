@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container">
+    <div class="row">
+        <div class="col-12 d-flex flex-column align-items-start justify-content-center col-lg-6 col-xl-5 ">
+            <h1 >Комплексная диагностика</h1>
+            <ul class="py-4">
+                <li class="fs-5">Комплексная диагностика авто перед покупкой</li>
+                <li class="fs-5">Бесплатный осмотр ходовой</li>
+                <li class="fs-5">Компьютерная диагностика</li>
+                <li class="fs-5">Наш сервис имеет удобное местоположение</li>
+            </ul>
+            <a class="btn btn-danger fs-4" href="" role="button">Бесплатная диагностика</a>
+        </div>
+        <div class="col-md-5 col-lg-5 offset-lg-1 d-none d-lg-block phone-holder">
+            <div class="iphone-mockup">
+                <img class="device" src="~/Images/header.png" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container text-center my-3">
+    <h1 class="my-5">Выполняем все виды диагностики авто:</h1>
+    <div class="decor-line"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                @for (var i = 0; i < 6; i++)
+                {
+                    <div class="card my-3 border-radius-lg shadow-sm">
+                        <div class="card-body">
+                            <p class="card-text fs-4">Диагностика автомобиля</p>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="col">
+                @for (var i = 0; i < 6; i++)
+                {
+                    <div class="card my-3 border-radius-lg shadow-sm">
+                        <div class="card-body">
+                            <p class="card-text fs-4">Диагностика автомобиля</p>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

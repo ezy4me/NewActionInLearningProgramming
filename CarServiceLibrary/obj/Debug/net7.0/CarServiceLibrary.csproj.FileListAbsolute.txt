@@ -1,0 +1,14 @@
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\bin\Debug\net7.0\CarServiceLibrary.deps.json
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\bin\Debug\net7.0\CarServiceLibrary.runtimeconfig.json
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\bin\Debug\net7.0\CarServiceLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\bin\Debug\net7.0\CarServiceLibrary.pdb
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.AssemblyInfo.cs
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\refint\CarServiceLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.pdb
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.genruntimeconfig.cache
+C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceLibrary\obj\Debug\net7.0\ref\CarServiceLibrary.dll

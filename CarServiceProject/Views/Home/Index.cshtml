@@ -1,0 +1,171 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+}
+<div class="main">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 d-flex flex-column align-items-start justify-content-center col-lg-6 col-xl-5 ">
+                <div class="bg-light p-3 bg-opacity-50">
+                    <h2>Комплексная диагностика</h2>
+                    <ul class="py-4">
+                        <li class="fs-5">Комплексная диагностика авто перед покупкой</li>
+                        <li class="fs-5">Бесплатный осмотр ходовой</li>
+                        <li class="fs-5">Компьютерная диагностика</li>
+                        <li class="fs-5">Наш сервис имеет удобное местоположение</li>
+                    </ul>
+                    <a class="btn btn-danger fs-4" href="" role="button">Бесплатная диагностика</a>
+                </div>
+            </div>
+            <div class="col-md-5 col-lg-5 offset-lg-1 d-none d-lg-block">
+                <img class="main-img my-5" src="~/Images/obs.png" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container text-center my-3">
+    <h1 class="my-5">Наши услуги</h1>
+    <div class="decor-line"></div>
+    <div class="d-flex flex-column justify-content-center">
+        @*@for (var i = 0; i < 3; i++)
+		{
+			<div class="row my-3">
+				@for(var j = 0; j <3; j++)
+				{
+					<div class="col">
+						<div class="card p-2 border-radius-lg shadow-sm" >
+									<img src="~/Images/no-image.jpg" class="card-img-top" alt="...">
+							<div class="card-body">
+								<p class="card-text fs-4">Название услуги</p>
+							</div>
+						</div>
+					</div>
+					
+				}
+			</div>
+			
+		}*@
+        <div class="row my-3">
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/avtoelectronika.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Автоэлектроника</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/tyuning.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Выхлопная система</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/engine.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Двигатель</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row my-3">
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/cat13.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Диагностика автомобиля</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/condition.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Заправка кондиционеров</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/maslo.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Масло и фильтры</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row my-3">
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/obslujivanie.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Обслуживание</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/podveska.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Подвеска</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card p-4 border-radius-lg shadow-sm">
+                    <img src="~/Images/Services/akpp.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text fs-4">Ремонт АКПП</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <h1 class="my-5">Марки, которые мы обслуживаем</h1>
+    <div class="decor-line"></div>
+    <div class="d-flex flex-column justify-content-center">
+        @for (var i = 0; i < 3; i++)
+        {
+            <div class="row mx-5 my-3">
+                @for (var j = 0; j < 4; j++)
+                {
+                    <div class="col">
+                        <div class="card p-4 border-radius-lg shadow-sm">
+                            <img src="~/Images/Cars/BMW.png" class="card-img-top car-image" alt="...">
+                            <div class="card-body">
+                                <p class="card-text fs-4">BMW</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+
+    <div class="container my-5">
+        <div class="row align-items-center">
+            <div class="col">
+                <img src="~/Images/dvig.png" class="img" alt="...">
+            </div>
+            <div class="col">
+                <h2>Преимущества покупки запчастей в нашем автосервисе:</h2>
+                <div class="decor-line mb-3"></div>
+                <div class="text-start fs-5">
+                    <p>Цена многих запчастей в нашем автосервисе ниже, чем в среднем по рынку, потому что поставщики заинтересованы в сотрудничестве с автосервисом из-за стабильного спроса и предлагают особые условия сотрудничества.</p>
+                    <p>Также при покупке запчастей у нас Вы можете быть уверены, что все необходимое для ремонта Вашего автомобиля будет в наличии, либо доставлено в кратчайшие сроки, исключена возможность покупки лишних запчастей, необходимость их возврата, обмена. Мы экономим не только деньги, но и время Клиента.</p>
+                    <p>В настоящее время около 4% запчастей, независимо от производителя может иметь брак, это норма для производства, иногда такие детали попадаются и визуально их сложно распознать. Мы сотрудничаем только с проверенными поставщиками и производителями, закупаем запчасти самого высокого качества, но для спокойствия Клиента мы также даем гарантию на все запчасти в случае их покупки у нас.</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>

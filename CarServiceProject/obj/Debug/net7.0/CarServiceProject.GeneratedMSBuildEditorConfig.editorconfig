@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CarServiceProject
+build_property.RootNamespace = CarServiceProject
+build_property.ProjectDir = C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceProject\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sasas\OneDrive\Рабочий стол\CarServiceProject\CarServiceProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Account/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Account/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Admin/AdminPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5QYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/MainActions/AboutService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkFjdGlvbnNcQWJvdXRTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/MainActions/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkFjdGlvbnNcQ29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/MainActions/Detailing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkFjdGlvbnNcRGV0YWlsaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/MainActions/Diagnostic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkFjdGlvbnNcRGlhZ25vc3RpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/MainActions/Maintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkFjdGlvbnNcTWFpbnRlbmFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/MainActions/OnMarks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkFjdGlvbnNcT25NYXJrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/MainActions/Repair.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkFjdGlvbnNcUmVwYWlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sasas/OneDrive/Рабочий стол/CarServiceProject/CarServiceProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6vcucw9a7y
