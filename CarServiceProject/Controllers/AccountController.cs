@@ -3,23 +3,33 @@ using CarServiceLibrary.Models;
 using CarServiceLibrary.Models.Entities;
 using CarServiceProject.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace CarServiceProject.Controllers;
 
 public class AccountController : Controller
 {
-    private CarServiceDbContext _db;
+    private readonly CarServiceDbContext _db;
 
     public AccountController(CarServiceDbContext context)
     {
         _db = context;
     }
 
-    public IActionResult Test() => View();
+    public IActionResult Test()
+    {
+        return View();
+    }
 
-    public IActionResult Login() => View();
+    public IActionResult Login()
+    {
+        return View();
+    }
 
-    public IActionResult Registration() => View();
+    public IActionResult Registration()
+    {
+        return View();
+    }
 
     [HttpPost]
     public async Task<IActionResult> RegisterAccount(Users user)
@@ -30,13 +40,28 @@ public class AccountController : Controller
             await _db.SaveChangesAsync();
             return RedirectToAction("Login");
         }
-        else
-        {
-            return Content("Не валидно!");
-        }
+
+        return Content("Не валидно!");
     }
 
-    
+    [HttpPost]
+    public async Task<IActionResult> Login(string phone, string password)
+    {
+        if (!Validator.Validator.ValidatePhone(phone)) return Content("Не валидный телефон!");
+
+        if (!Validator.Validator.ValidatePassword(password)) return Content("Не валидный пароль!");
+
+        var findUser =
+            await _db.Users.FirstOrDefaultAsync(x => x.TelephoneNumber == phone && x.PasswordUser == password);
+
+        if (findUser != null)
+        {
+            return Content("Регистрация прошла успешно!");
+        }
+
+        return NotFound();
+    }
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
