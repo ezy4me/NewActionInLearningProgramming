@@ -1,31 +1,47 @@
 ﻿using System.Diagnostics;
+using CarServiceLibrary.Models;
+using CarServiceLibrary.ViewModels;
 using CarServiceProject.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace CarServiceProject.Controllers;
 
 public class MainActionsController : Controller
 {
     private readonly ILogger<MainActionsController> _logger;
+	private CarServiceDbContext _db;
 
-    public MainActionsController(ILogger<MainActionsController> logger)
+	public MainActionsController(ILogger<MainActionsController> logger, CarServiceDbContext context)
     {
         _logger = logger;
+        _db = context;
     }
 
-    #region MyRegion
+	
 
-    public IActionResult Diagnostic()
+	#region MyRegion
+
+	public IActionResult Diagnostic()
     {
         return View();
     }
 
-    public IActionResult Maintenance()
+	public async Task<IActionResult> Maintenance()
+	{
+        var services = _db.Services.ToList();
+        ServicesViewModel vm = new ServicesViewModel();
+        vm.Services = services;
+		return View(vm);
+	}
+
+    public IActionResult GetService(int id)
     {
-        return View();
+        var service = _db.Services.Find(id);
+        return Json(service);
     }
 
-    public IActionResult Repair()
+	public IActionResult Repair()
     {
         return View();
     }

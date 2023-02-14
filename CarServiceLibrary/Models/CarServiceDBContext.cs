@@ -1,16 +1,17 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using CarServiceLibrary.Models.Entities;
+using CarServiceLibrary.ViewModels;
 #pragma warning disable CS8618
 
 namespace CarServiceLibrary.Models;
 
 public sealed class CarServiceDbContext : DbContext
 {
-    public CarServiceDbContext(DbContextOptions<CarServiceDbContext> options) : base(options) 
-    { 
-        
+    public CarServiceDbContext(DbContextOptions<CarServiceDbContext> options) : base(options)
+    {
+
     }
-    
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.UseSerialColumns();
@@ -29,4 +30,5 @@ public sealed class CarServiceDbContext : DbContext
     public DbSet<Statuses> Statuses { get; set; }
     public DbSet<Types> Types { get; set; }
     public DbSet<Users> Users { get; set; }
+
 }
