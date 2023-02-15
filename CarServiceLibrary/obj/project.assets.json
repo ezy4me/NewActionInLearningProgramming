@@ -1028,19 +1028,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mrron\\.nuget\\packages\\": {}
+    "C:\\Users\\sasas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrron\\Source\\Repos\\NewActionInLearningProgramming\\CarServiceLibrary\\CarServiceLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceLibrary\\CarServiceLibrary.csproj",
       "projectName": "CarServiceLibrary",
-      "projectPath": "C:\\Users\\mrron\\Source\\Repos\\NewActionInLearningProgramming\\CarServiceLibrary\\CarServiceLibrary.csproj",
-      "packagesPath": "C:\\Users\\mrron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrron\\Source\\Repos\\NewActionInLearningProgramming\\CarServiceLibrary\\obj\\",
+      "projectPath": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceLibrary\\CarServiceLibrary.csproj",
+      "packagesPath": "C:\\Users\\sasas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mrron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sasas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
