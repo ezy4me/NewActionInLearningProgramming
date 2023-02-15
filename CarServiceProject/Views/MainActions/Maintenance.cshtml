@@ -5,7 +5,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-12 d-flex flex-column align-items-start justify-content-center col-lg-6 col-xl-5 ">
-			<h2>Обслуживание автомобиля</h2>
+			<h1>Обслуживание автомобиля</h1>
 			<ul class="py-4">
 				<li class="fs-5">Выполним обслуживание автомобиля</li>
 				<li class="fs-5">Фиксированные цены</li>
@@ -26,35 +26,17 @@
 	<h1 class="my-5">Оказываем полный комплекс услуг по обслуживанию автомобилей</h1>
 	<div class="decor-line"></div>
 	<div class="container">
-		<div class="row">
-			<div class="col"> 
-					@foreach (var item in Model.Services)
-					{
-								<div id="serviceModal" class="card my-3 border-radius-lg shadow-sm" onclick="showModal(@item.Id)"  data-bs-toggle="modal" data-bs-target="#GetService">
-							<div class="card-body">
-								<p class="card-text fs-4" >@item.ServiceName</p>
-							</div>
-							</div>
-					}
-					@*@for (var i = 0; i < 6; i++)
-				{
-					<div class="card my-3 border-radius-lg shadow-sm" >
+		<div class="row row-cols-2 row-cols-lg-2">
+			@foreach (var item in Model.Services)
+			{
+				<div class="col my-3"> 
+					<div id="serviceModal" class="card border-radius-lg shadow-sm" onclick="showModal(@item.Id)"  data-bs-toggle="modal" data-bs-target="#GetService">
 						<div class="card-body">
-							<p class="card-text fs-4">Плановое ТО</p>
+							<p class="card-text fs-4" >@item.ServiceName</p>
 						</div>
 					</div>
-				}*@
-			</div>
-			<div class="col">
-					@for (var i = 0; i < 6; i++)
-					{
-						<div class="card my-3 border-radius-lg shadow-sm" >
-							<div class="card-body">
-								<p class="card-text fs-4">Плановое ТО</p>
-							</div>
-						</div>
-					}
-			</div>
+				</div>		
+			}
 		</div>
 	</div>
 
@@ -67,16 +49,16 @@
 		<div class="modal-dialog modal-dialog-centered">
 			<div class="modal-content">
 				<form>
-					<div class="modal-header">
+					<div class="modal-header justify-content-center">
 					<h2 class="modal-title"
                         id="ServiceName">
 					</h2>
-					<button type="button"
+					@*<button type="button"
                             class="btn-close"
                             data-bs-dismiss="modal"
                             aria-label="Close">
 
-					</button>
+					</button>*@
 				</div>
 				<div class="modal-body text-start">
 					<div class="row m-3">

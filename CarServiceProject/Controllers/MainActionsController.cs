@@ -24,13 +24,16 @@ public class MainActionsController : Controller
 
 	public IActionResult Diagnostic()
     {
-        return View();
+        var services = _db.Services.Where(s => s.TypeId == 4).ToList();
+        ServicesViewModel vm = new ServicesViewModel();
+        vm.Services = services;
+        return View(vm);
     }
 
 	public async Task<IActionResult> Maintenance()
 	{
-        var services = _db.Services.ToList();
-        ServicesViewModel vm = new ServicesViewModel();
+		var services = _db.Services.Where(s => s.TypeId == 2).ToList();
+		ServicesViewModel vm = new ServicesViewModel();
         vm.Services = services;
 		return View(vm);
 	}
