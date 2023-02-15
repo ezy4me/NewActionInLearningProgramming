@@ -1,459 +1,463 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarServiceProject.bundle.scp.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarServiceProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\CarServiceProject.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Audi.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images.zip",
+      "PackagePath": "staticwebassets\\Images.zip"
+    },
+    {
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Audi.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Audi.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\BMW.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\BMW.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\BMW.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Chevrolet.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Chevrolet.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Chevrolet.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Ford.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Ford.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Ford.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Honda.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Honda.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Honda.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Hyundai.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Hyundai.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Hyundai.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Infiniti.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Infiniti.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Infiniti.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Kia.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Kia.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Kia.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Lexus.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Lexus.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Lexus.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Mazda.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Mazda.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Mazda.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Mercedes.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Mercedes.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Mercedes.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Mitsubishi.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Mitsubishi.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Mitsubishi.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Nissan.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Nissan.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Nissan.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Peugeot.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Peugeot.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Peugeot.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Porshe.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Porshe.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Porshe.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Cars\\Renault.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Cars\\Renault.png",
       "PackagePath": "staticwebassets\\Images\\Cars\\Renault.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\antichrome.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\antichrome.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\antichrome.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\antirain.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\antirain.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\antirain.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\brandavto.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\brandavto.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\brandavto.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\bron-avto.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\bron-avto.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\bron-avto.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\det-moyka.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\det-moyka.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\det-moyka.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\glub-pol-avto.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\glub-pol-avto.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\glub-pol-avto.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\him-avto.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\him-avto.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\him-avto.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\keram-avto.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\keram-avto.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\keram-avto.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\pereshiv-salona.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\pereshiv-salona.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\pereshiv-salona.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\plenka-avto.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\plenka-avto.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\plenka-avto.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\pokraska-diskov.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\pokraska-diskov.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\pokraska-diskov.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\pokraska-sup.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\pokraska-sup.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\pokraska-sup.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\shumka-avto.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\shumka-avto.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\shumka-avto.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\tonirovka.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Detailing\\tonirovka.jpg",
       "PackagePath": "staticwebassets\\Images\\Detailing\\tonirovka.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\akpp.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\akpp.jpg",
       "PackagePath": "staticwebassets\\Images\\Services\\akpp.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\avtoelectronika.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\avtoelectronika.png",
       "PackagePath": "staticwebassets\\Images\\Services\\avtoelectronika.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\cat13.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\cat13.jpg",
       "PackagePath": "staticwebassets\\Images\\Services\\cat13.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\condition.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\condition.png",
       "PackagePath": "staticwebassets\\Images\\Services\\condition.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\engine.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\engine.png",
       "PackagePath": "staticwebassets\\Images\\Services\\engine.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\maslo.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\maslo.png",
       "PackagePath": "staticwebassets\\Images\\Services\\maslo.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\obslujivanie.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\obslujivanie.png",
       "PackagePath": "staticwebassets\\Images\\Services\\obslujivanie.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\podveska.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\podveska.png",
       "PackagePath": "staticwebassets\\Images\\Services\\podveska.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\tyuning.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\Services\\tyuning.jpg",
       "PackagePath": "staticwebassets\\Images\\Services\\tyuning.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\bg-footer.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\bg-footer.jpg",
       "PackagePath": "staticwebassets\\Images\\bg-footer.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\carbon.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\carbon.jpg",
       "PackagePath": "staticwebassets\\Images\\carbon.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\cat2.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\cat2.jpg",
       "PackagePath": "staticwebassets\\Images\\cat2.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\det-1.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\det-1.jpg",
       "PackagePath": "staticwebassets\\Images\\det-1.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\detailing-bg.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\detailing-bg.jpg",
       "PackagePath": "staticwebassets\\Images\\detailing-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\detailing-header.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\detailing-header.jpg",
       "PackagePath": "staticwebassets\\Images\\detailing-header.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\dvig.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\dvig.png",
       "PackagePath": "staticwebassets\\Images\\dvig.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\header.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\header.png",
       "PackagePath": "staticwebassets\\Images\\header.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\home.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\home.png",
       "PackagePath": "staticwebassets\\Images\\home.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\logo.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\logo.png",
       "PackagePath": "staticwebassets\\Images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\main-header-bg.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\main-header-bg.png",
       "PackagePath": "staticwebassets\\Images\\main-header-bg.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\no-image.jpg",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\no-image.jpg",
       "PackagePath": "staticwebassets\\Images\\no-image.jpg"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\obs.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\obs.png",
       "PackagePath": "staticwebassets\\Images\\obs.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\phone-call.png",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\Images\\phone-call.png",
       "PackagePath": "staticwebassets\\Images\\phone-call.png"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\mrron\\source\\repos\\NewActionInLearningProgramming2\\CarServiceProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

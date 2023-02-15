@@ -152,3 +152,19 @@ footer {
 .is-hidden {
     display: none;
 }
+
+.detailing-header {
+    width: 100%;
+    height: 600px;
+    mask-image: conic-gradient();
+    background-image: url('../Images/detailing-header.jpg');
+    background-size: 100%;
+}
+
+.detailing-bg {
+    width: 100%;
+    box-shadow: 0 90px 90px rgba(0, 0, 0, 1) inset;
+    mask-image: conic-gradient();
+    background-image: url('../Images/carbon.jpg');
+    background-size: 100%;
+}

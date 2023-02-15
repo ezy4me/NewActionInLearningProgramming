@@ -26,3 +26,17 @@ C:\Users\mrron\Source\Repos\NewActionInLearningProgramming\CarServiceLibrary\obj
 C:\Users\mrron\Source\Repos\NewActionInLearningProgramming\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.pdb
 C:\Users\mrron\Source\Repos\NewActionInLearningProgramming\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.genruntimeconfig.cache
 C:\Users\mrron\Source\Repos\NewActionInLearningProgramming\CarServiceLibrary\obj\Debug\net7.0\ref\CarServiceLibrary.dll
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\bin\Debug\net7.0\CarServiceLibrary.deps.json
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\bin\Debug\net7.0\CarServiceLibrary.runtimeconfig.json
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\bin\Debug\net7.0\CarServiceLibrary.dll
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\bin\Debug\net7.0\CarServiceLibrary.pdb
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.AssemblyInfo.cs
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.dll
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\refint\CarServiceLibrary.dll
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.pdb
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\CarServiceLibrary.genruntimeconfig.cache
+C:\Users\mrron\Source\Repos\NewActionInLearningProgramming2\CarServiceLibrary\obj\Debug\net7.0\ref\CarServiceLibrary.dll

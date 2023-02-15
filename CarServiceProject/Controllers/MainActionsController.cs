@@ -51,8 +51,11 @@ public class MainActionsController : Controller
 
     public IActionResult Detailing()
     {
-        return View();
-    }
+		var services = _db.Services.Where(s => s.TypeId == 3).ToList();
+		ServicesViewModel vm = new ServicesViewModel();
+		vm.Services = services;
+		return View(vm);
+	}
 
     public IActionResult Contacts()
     {

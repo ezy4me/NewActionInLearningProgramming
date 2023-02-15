@@ -9,7 +9,6 @@ public sealed class CarServiceDbContext : DbContext
 {
     public CarServiceDbContext(DbContextOptions<CarServiceDbContext> options) : base(options)
     {
-
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -17,6 +16,7 @@ public sealed class CarServiceDbContext : DbContext
         modelBuilder.UseSerialColumns();
 
         modelBuilder.Entity<Cars>().Property(m => m.Id).UseIdentityColumn();
+        modelBuilder.Entity<Category>().Property(m => m.Id).UseIdentityColumn();
         modelBuilder.Entity<Orders>().Property(s => s.Id).UseIdentityColumn();
         modelBuilder.Entity<Services>().Property(p => p.Id).UseIdentityColumn();
         modelBuilder.Entity<Statuses>().Property(p => p.Id).UseIdentityColumn();
@@ -25,6 +25,7 @@ public sealed class CarServiceDbContext : DbContext
     }
 
     public DbSet<Cars> Cars { get; set; }
+    public DbSet<Category> Category { get; set; }
     public DbSet<Orders> Orders { get; set; }
     public DbSet<Services> Services { get; set; }
     public DbSet<Statuses> Statuses { get; set; }
