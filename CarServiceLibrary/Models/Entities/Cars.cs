@@ -23,5 +23,5 @@ public class Cars
     /// <summary>
     /// Изображение марки машины.
     /// </summary>
-    public string CarImage { get; set; }
+    public string? CarImage { get; set; }
 }

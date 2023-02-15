@@ -29,11 +29,7 @@
             @foreach (var item in Model.Services)
             {
                 <div class="col my-3">
-                    <div id="serviceModal"
-                         class="card border-radius-lg shadow-sm"
-                         onclick="showModal(@item.Id)"
-                         data-bs-toggle="modal"
-                         data-bs-target="#GetService">
+                    <div id="serviceModal" class="card border-radius-lg shadow-sm" onclick="showModal(@item.Id)" data-bs-toggle="modal" data-bs-target="#GetService">
                         <div class="card-body">
                             <p class="card-text fs-4">@item.ServiceName</p>
                         </div>
@@ -42,15 +38,13 @@
             }
         </div>
     </div>
-</div>
-
-<!-- Modal OrderService -->
+    
+    <!-- Modal OrderService -->
 <div class="modal fade"
      id="GetService"
      tabindex="-1"
      aria-labelledby="orderService"
      aria-hidden="true">
-
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <form>
@@ -58,12 +52,6 @@
                     <h2 class="modal-title"
                         id="ServiceName">
                     </h2>
-                    @*<button type="button"
-                            class="btn-close"
-                            data-bs-dismiss="modal"
-                            aria-label="Close">
-
-					</button>*@
                 </div>
                 <div class="modal-body text-start">
                     <div class="row m-3">
@@ -100,8 +88,6 @@
                     </div>
                 </div>
             </form>
-
-
         </div>
         <div class="modal-footer">
             <div class="row mx-5 text-center">
@@ -111,22 +97,21 @@
         </div>
     </div>
 </div>
+</div>
 
 @section Scripts {
     <script type="text/javascript">
-				const showModal = function(id)
-				{
-						$.ajax({
-							type: "POST",
-							url: "/MainActions/GetService",
-							data: { id:id},
-							success: function(service){
-									$("#GetService").modal('show');
-										$("#ServiceName").text(service.serviceName);
-								//$(".$(".updated").val(employee.id);
-							}
-					})
-				}
-
+		var showModal = function(id)
+		{
+		  $.ajax({
+		   type: "POST",
+		   url: "/MainActions/GetService",
+		   data: { id:id},
+		   success: function(service){
+			 $("#GetService").modal('show');
+			  $("#ServiceName").text(service.serviceName);
+		   }
+		  })
+		}
 		</script>
 }

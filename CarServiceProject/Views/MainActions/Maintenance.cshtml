@@ -21,47 +21,46 @@
             </div>
         </div>
     </div>
-</div>
 
-<div class="container text-center my-3">
-    <h1 class="my-5">Оказываем полный комплекс услуг по обслуживанию автомобилей</h1>
-    <div class="decor-line"></div>
-    <div class="container">
-        <div class="row row-cols-2 row-cols-lg-2">
-            @foreach (var item in Model.Services)
-            {
-                <div class="col my-3">
-                    <div id="serviceModal" class="card border-radius-lg shadow-sm" onclick="showModal(@item.Id)" data-bs-toggle="modal" data-bs-target="#GetService">
-                        <div class="card-body">
-                            <p class="card-text fs-4">@item.ServiceName</p>
+    <div class="container text-center my-3">
+        <h1 class="my-5">Оказываем полный комплекс услуг по обслуживанию автомобилей</h1>
+        <div class="decor-line"></div>
+        <div class="container">
+            <div class="row row-cols-2 row-cols-lg-2">
+                @foreach (var item in Model.Services)
+                {
+                    <div class="col my-3">
+                        <div id="serviceModal" class="card border-radius-lg shadow-sm" onclick="showModal(@item.Id)" data-bs-toggle="modal" data-bs-target="#GetService">
+                            <div class="card-body">
+                                <p class="card-text fs-4">@item.ServiceName</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-            }
+                }
+            </div>
         </div>
-    </div>
 
-    <!-- Modal OrderService -->
-    <div class="modal fade"
-         id="GetService"
-         tabindex="-1"
-         aria-labelledby="orderService"
-         aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <form>
-                    <div class="modal-header justify-content-center">
-                        <h2 class="modal-title"
-                            id="ServiceName">
-                        </h2>
-                        @*<button type="button"
+        <!-- Modal OrderService -->
+        <div class="modal fade"
+             id="GetService"
+             tabindex="-1"
+             aria-labelledby="orderService"
+             aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <form>
+                        <div class="modal-header justify-content-center">
+                            <h2 class="modal-title"
+                                id="ServiceName">
+                            </h2>
+                            @*<button type="button"
                             class="btn-close"
                             data-bs-dismiss="modal"
                             aria-label="Close">
 
-					</button>*@
-                    </div>
-                    <div class="modal-body text-start">
+     </button>*@
+                        </div>
+                        <div class="modal-body text-start">
                         <div class="row m-3">
                             <div class="form-group">
                                 <label class="fw-bold m-1" for="name">Ваше имя</label>
@@ -94,15 +93,15 @@
                                 <input type="text" class="form-control py-2 fs-5" id="phone" placeholder="Номер телефона">
                             </div>
                         </div>
+                        </div>
+                    </form>
+
+                </div>
+                <div class="modal-footer">
+                    <div class="row mx-5 text-center">
+                        <button type="submit" class="btn btn-danger fw-bold fs-4">Оставить заявку</button>
+                        <p class="fs-5 p-2">Оперативно перезваниваем в рабочее время</p>
                     </div>
-                </form>
-
-
-            </div>
-            <div class="modal-footer">
-                <div class="row mx-5 text-center">
-                    <button type="submit" class="btn btn-danger fw-bold fs-4">Оставить заявку</button>
-                    <p class="fs-5 p-2">Оперативно перезваниваем в рабочее время</p>
                 </div>
             </div>
         </div>
@@ -111,19 +110,19 @@
 
 @section Scripts {
     <script type="text/javascript">
-				const showModal = function(id)
-				{
-						$.ajax({
-							type: "POST",
-							url: "/MainActions/GetService",
-							data: { id:id},
-							success: function(service){
-									$("#GetService").modal('show');
-										$("#ServiceName").text(service.serviceName);
-								//$(".$(".updated").val(employee.id);
-							}
-					})
-				}
+        var showModal = function(id)
+        {
+          $.ajax({
+           type: "POST",
+           url: "/MainActions/GetService",
+           data: { id:id},
+           success: function(service){
+             $("#GetService").modal('show');
+              $("#ServiceName").text(service.serviceName);
+            //$(".$(".updated").val(employee.id);
+           }
+         })
+        }
 
-		</script>
+      </script>
 }

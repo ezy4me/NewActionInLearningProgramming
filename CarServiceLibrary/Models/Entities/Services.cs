@@ -17,7 +17,12 @@ public class Services
     [Required(ErrorMessage = "Поле не может быть пустым.")]
     public decimal Price { get; set; }
     
+    public string? ServicesImage { get; set; }
+    
     public string? Description { get; set; }
+    
+    public int CategoryId { get; set; }
+    public virtual Category? Category { get; set; }
     
     public int TypeId { get; set; }
     

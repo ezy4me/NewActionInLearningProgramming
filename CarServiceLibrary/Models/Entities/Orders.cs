@@ -13,22 +13,22 @@ public class Orders
 
     public int UserId { get; set; }
     
-    public virtual Users? Users { get; set; }
+    public virtual Users? User { get; set; }
     
     public int ServiceId { get; set; }
     
-    public virtual Services Services { get; set; }
+    public virtual Services Service { get; set; }
     
     [Required(ErrorMessage = "Поле не может быть пустым!")]
     public string? UserName { get; set; }
     
     public int StatusId { get; set; }
     
-    public virtual Statuses Statuses { get; set; }
+    public virtual Statuses Status { get; set; }
 
     public int CarId { get; set; }
     
-    public virtual Cars Cars { get; set; }
+    public virtual Cars Car { get; set; }
     
     [Required(ErrorMessage = "Поле не может быть пустым!")]
     public string? CarModelName { get; set; }
