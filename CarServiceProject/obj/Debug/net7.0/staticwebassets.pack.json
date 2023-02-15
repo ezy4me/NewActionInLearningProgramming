@@ -69,6 +69,62 @@
       "PackagePath": "staticwebassets\\Images\\Cars\\Renault.png"
     },
     {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\antichrome.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\antichrome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\antirain.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\antirain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\brandavto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\brandavto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\bron-avto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\bron-avto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\det-moyka.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\det-moyka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\glub-pol-avto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\glub-pol-avto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\him-avto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\him-avto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\keram-avto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\keram-avto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\pereshiv-salona.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\pereshiv-salona.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\plenka-avto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\plenka-avto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\pokraska-diskov.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\pokraska-diskov.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\pokraska-sup.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\pokraska-sup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\shumka-avto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\shumka-avto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Detailing\\tonirovka.jpg",
+      "PackagePath": "staticwebassets\\Images\\Detailing\\tonirovka.jpg"
+    },
+    {
       "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\Services\\akpp.jpg",
       "PackagePath": "staticwebassets\\Images\\Services\\akpp.jpg"
     },
@@ -109,8 +165,24 @@
       "PackagePath": "staticwebassets\\Images\\bg-footer.jpg"
     },
     {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\carbon.jpg",
+      "PackagePath": "staticwebassets\\Images\\carbon.jpg"
+    },
+    {
       "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\cat2.jpg",
       "PackagePath": "staticwebassets\\Images\\cat2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\det-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\det-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\detailing-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\detailing-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\detailing-header.jpg",
+      "PackagePath": "staticwebassets\\Images\\detailing-header.jpg"
     },
     {
       "Id": "C:\\Users\\sasas\\OneDrive\\Рабочий стол\\CarServiceProject\\CarServiceProject\\wwwroot\\Images\\dvig.png",

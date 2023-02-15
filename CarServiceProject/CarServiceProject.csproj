@@ -23,4 +23,42 @@
       <ProjectReference Include="..\CarServiceLibrary\CarServiceLibrary.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\Images\bg-footer.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Audi.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\BMW.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Chevrolet.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Ford.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Honda.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Hyundai.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Infiniti.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Kia.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Lexus.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Mazda.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Mercedes.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Mitsubishi.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Nissan.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Peugeot.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Porshe.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Cars\Renault.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\cat2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\dvig.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\header.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\home.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\logo.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\main-header-bg.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\no-image.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\obs.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\phone-call.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\akpp.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\avtoelectronika.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\cat13.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\condition.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\engine.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\maslo.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\obslujivanie.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\podveska.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Services\tyuning.jpg" />
+    </ItemGroup>
+
 </Project>
